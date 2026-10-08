@@ -61,11 +61,18 @@
 	2. transport
 	3. fabricació
 	4. emmagatzematge
-	5. t
+	5. transport
+	6. venda a l'engros
+	7. venda al detall
+
+### Control de qualitat
+- taxa de rebuig
+- taxa d'acceptació
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE0ODYzMjUsMTU3MjY1NDVdfQ==
+eyJoaXN0b3J5IjpbNjUzNjk0NTc4LDE1NzI2NTQ1XX0=
 -->
