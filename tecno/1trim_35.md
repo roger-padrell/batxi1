@@ -53,7 +53,19 @@
 	1. Disseny inicial i desenvolupament
 	2. Desenvolupament del sistema de fabricació
 	3. Disseny dels detalls tècnics (plànols, presició, toleràncies, normatives)
-	4. 
+	4. Proves pilot
+	5. Presèries
+	6. Finalització i llançament
+- Cadena de subministrament:
+	1. proveïdors
+	2. transport
+	3. fabricació
+	4. emmagatzematge
+	5. t
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjY1NDVdfQ==
+eyJoaXN0b3J5IjpbLTEzNTE0ODYzMjUsMTU3MjY1NDVdfQ==
 -->
