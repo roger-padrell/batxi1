@@ -66,13 +66,14 @@
 	7. venda al detall
 
 ### Control de qualitat
-- taxa de rebuig
-- taxa d'acceptació
+- taxa de rebuig: `rebutjats / entrants * 100`
+- taxa d'acceptació: `acceptats / entrants * 100`
+- fiabilitat: probabilitat que una màquina funcioni sense avaries durant un cert temps
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNjk0NTc4LDE1NzI2NTQ1XX0=
+eyJoaXN0b3J5IjpbNTIwNDgyMTQxLDE1NzI2NTQ1XX0=
 -->
