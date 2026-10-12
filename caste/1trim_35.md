@@ -1,8 +1,18 @@
 # Castellano 35% 1trim
 
 ## Literatura
-
-
+- Texto:
+	- Resúmen: multiples oraciones
+	- Idea principal: 1 oración
+	- Tema: SN, funciona como título
+- Modelos de comunicación
+	- emisor
+	- receptor
+	- mensaje (canal, código)
+	- contexto
+	- ruido
+- Intención comunicativa :
+	- poética/estética: bonito
 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
@@ -84,6 +94,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDI0MjM0Miw3OTQ3MDY0NzYsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTMyMDUzNjQsNzk0NzA2NDc2LC0yMD
+g4NzQ2NjEyXX0=
 -->
