@@ -26,5 +26,5 @@
 - _Venatus amoris_: amor como caceria.
 - _Collige, virgo, rosas_: caracter irrecuperable de la juventud y la belleza. Gozar del amor (rosas) antes de la muerte.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTc5NTA1MjQ5MSwtMjA4ODc0NjYxMl19
 -->
