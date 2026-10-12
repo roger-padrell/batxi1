@@ -70,7 +70,7 @@
 - _Apóstrofe_: interpelación directa
 ### Adjetivación
 - _Epíteto_: adjetivo que no aumenta la comprensión, intrínsico
-- _Hipálage_: le de el adjetivo de un sustantivo a otro (en un ar)
+- _Hipálage_: le de el adjetivo de un sustantivo a otro (en un arbusto caído, mi ángel del cielo ⇒ el ángel ha caido en el arbusto)
 ### Otros
 - _Aliteración_: repetición de sonidos semejantes (Mi mamá me mima, mi mamá me ama.)
 - _Encabalgamiento_: oración contínua en el verso siguiente
@@ -80,5 +80,5 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDYwNzU4NywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTczMjc1NjI5LC0yMDg4NzQ2NjEyXX0=
 -->
