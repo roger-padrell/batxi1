@@ -42,6 +42,14 @@
 			- neutral: pocas opiniones
 			- editorial: muchas opiniones del autor
 		- observador, no omnisciente
+	- 1a persona
+		- protagonista
+		- testigo
+		- alternante
+- Punto de vista: forma de aproximar la información que recibe el lector
+	- focalización cero: omnisciencia
+	- focalización interna: propia experiencia, protagonista o testigo
+
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
 |--|--|--|--|
@@ -122,6 +130,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAzNDc5NjYsMzUwMzgzNzk0LDc5ND
-cwNjQ3NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzM3MTc2NzA2LDM1MDM4Mzc5NCw3OTQ3MD
+Y0NzYsLTIwODg3NDY2MTJdfQ==
 -->
