@@ -11,8 +11,15 @@
 	- mensaje (canal, código)
 	- contexto
 	- ruido
-- Intención comunicativa :
+- Intención comunicativa (propósito):
 	- poética/estética: bonito
+	- metalinguística: habla del lenguaje en si
+	- apelativa/conativa: ordenes
+	- emotiva/expresiva: opiniones
+	- fática: pregunta
+	- referencial/informativa: objetivo,hechos
+### Pragmática
+
 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
@@ -94,6 +101,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMyMDUzNjQsNzk0NzA2NDc2LC0yMD
+eyJoaXN0b3J5IjpbLTEyNTk3Njk4NjAsNzk0NzA2NDc2LC0yMD
 g4NzQ2NjEyXX0=
 -->
