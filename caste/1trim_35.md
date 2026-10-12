@@ -60,7 +60,10 @@
 ### Intensidad
 - _Hipérbole_: exageración (se murieron de miedo)
 - _Lítote_: expresar negando lo contrario (no muy fácil ⇒ muy difícil)
-- _Pleonasmo_: repetición innecesaria (
+- _Pleonasmo_: repetición innecesaria (Tenemos que salir afuera)
+### Humanización/sentidos
+- _Personificación_: atribuir cualidades humanas
+- _Sinestesia_: unión de sensaciones (frío azul ==> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Nzc0MDU4MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzgxOTg2OTQyLC0yMDg4NzQ2NjEyXX0=
 -->
