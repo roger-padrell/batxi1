@@ -33,6 +33,9 @@
 - _Amor post mortem_: el amor perdura la muerte.
 - _Venatus amoris_: amor como caceria.
 - _Collige, virgo, rosas_: caracter irrecuperable de la juventud y la belleza. Gozar del amor (rosas) antes de la muerte.
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODA3OTIwNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3ODYzMDUzOTAsLTIwODg3NDY2MTJdfQ
+==
 -->
