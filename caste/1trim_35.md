@@ -37,8 +37,12 @@
 ## Figuras retoricas
 ### Repetición
 - _Anafora_: repetición al incio
-- _
+- _Epifora_: repetición al final
+- _Anadiplosis_: final de un verso, inicio del siguiente
+- _Epanadiplosis_: inicio de un verso, final del mismo
+- _Paralelismo_: repeticion de estructura sintactica
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY5ODk0NjYsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTIwNjI5MjI3NzgsLTIwODg3NDY2MTJdfQ
 ==
 -->
