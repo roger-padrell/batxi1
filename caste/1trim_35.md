@@ -70,8 +70,10 @@
 - _Apóstrofe_: interpelación directa
 ### Adjetivación
 - _Epíteto_: adjetivo que no aumenta la comprensión, intrínsico
+### Otros
 - _Aliteración_: repetición de sonidos semejantes (Mi mamá me mima, mi mamá me ama.)
-- _
+- _Encabalgamiento_: oración contínua en el verso siguiente
+- _Paranomasia_: palabras próximas de sonido parecido ()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjQ1MjIwMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTEwOTY0ODcxMSwtMjA4ODc0NjYxMl19
 -->
