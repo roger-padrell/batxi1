@@ -41,8 +41,14 @@
 - _Anadiplosis_: final de un verso, inicio del siguiente
 - _Epanadiplosis_: inicio de un verso, final del mismo
 - _Paralelismo_: repeticion de estructura sintactica
-###
+### Adición/supresión
+- _Asindeton_: supresión de nexos
+- _Polisindeton_: repeticion de nexos
+- _Enumeracion_: serie de elementos
+### Orden
+- _Hipérbaton_: alteración/desorden sintáctico
+- _Quiasmo_
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI5MjI3NzgsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTc4NzkyNDc5OSwtMjA4ODc0NjYxMl19
 -->
