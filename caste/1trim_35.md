@@ -49,10 +49,11 @@
 - _Hipérbaton_: alteración/desorden sintáctico
 - _Quiasmo_: disposición cruzada (La humanidad debe poner un fin a la guerra o la guerra pondrá fin a la humanidad)
 ### Oposición
-- _Antitesis_: contraposición (dos conceptos) (Si quieres paz, prepárate para la guerra.)
-- _Oxímoron_: dos **palabras** de significado contrario.
-- _Paradoja_: dos ideas aparentemente irreconciliables
+- _Antitesis_: contraposición (dos conceptos) (La muerte es tan fácil, y tan difícil la vida)
+- _Oxímoron_: dos **palabras** de significado contrario (Ángeles del Infierno)
+- _Paradoja_: dos ideas aparentemente irreconciliables (Si quieres paz, prepárate para la guerra.)
+### Semejanza
+- _Metafora_: cambio de significado por sem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk1MDM2NTgsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbOTYzNjM2NjQ1LC0yMDg4NzQ2NjEyXX0=
 -->
