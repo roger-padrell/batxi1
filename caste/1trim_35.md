@@ -38,8 +38,10 @@
 	- lineal (planteamiento, nudo, desenlace)
 - Narrador:
 	- 3a persona (no hay marcas textuales)
-		- omnisciente (neutral o editor
-		- 
+		- omnisciente
+			- neutral: pocas opiniones
+			- editorial: muchas opiniones del autor
+		- observador, no omnisciente
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
 |--|--|--|--|
@@ -120,6 +122,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODk1MDAyNCwzNTAzODM3OTQsNzk0Nz
-A2NDc2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIxMzAzNDc5NjYsMzUwMzgzNzk0LDc5ND
+cwNjQ3NiwtMjA4ODc0NjYxMl19
 -->
