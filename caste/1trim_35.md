@@ -47,8 +47,10 @@
 - _Enumeracion_: serie de elementos
 ### Orden
 - _Hipérbaton_: alteración/desorden sintáctico
-- _Quiasmo_
-
+- _Quiasmo_: disposición cruzada (La humanidad debe poner un fin a la guerra o la guerra pondrá fin a la humanidad)
+### Oposición
+- _Antitesis_: contraposición (dos conceptos)
+- _Oxímoron: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzkyNDc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIxNjYzNjkwLC0yMDg4NzQ2NjEyXX0=
 -->
