@@ -19,7 +19,12 @@
 	- fática: pregunta
 	- referencial/informativa: objetivo,hechos
 ### Pragmática
-
+- Sentido de un texto dependiendo del contexto/situación comunicativa
+- Elementos:
+	- culturales: conocimientos referentes, prejuicios de comunidad
+	- presuposiciones: se infiere a partir de los enunciados
+	- implicaciones: situación comunicativa
+### D
 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
@@ -101,6 +106,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk3Njk4NjAsNzk0NzA2NDc2LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzY0NTI2MzEwLDc5NDcwNjQ3NiwtMjA4OD
+c0NjYxMl19
 -->
