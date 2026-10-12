@@ -24,7 +24,12 @@
 	- culturales: conocimientos referentes, prejuicios de comunidad
 	- presuposiciones: se infiere a partir de los enunciados
 	- implicaciones: situación comunicativa
-### D
+### Deixis
+- Elementos linguísticos que señalan una persona, lugar o tiemo en relación con la situación común
+- Solo se entiende según el contexto
+- Tipos:
+	- **Persona**: pronombre personal, posesivos, demostrativos, verbos conjugados (desinencias)
+	- **Espacial**: 
 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
@@ -106,6 +111,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NTI2MzEwLDc5NDcwNjQ3NiwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbMTIyODIxNjIzMSw3OTQ3MDY0NzYsLTIwOD
+g3NDY2MTJdfQ==
 -->
