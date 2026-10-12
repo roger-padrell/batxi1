@@ -62,7 +62,6 @@
 	- íntimo: tiempo subjetivo de los personajes
 	- simultáneo: lineas paralelas
 
-
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
 |--|--|--|--|
@@ -143,6 +142,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTU3MzEzOCwzNTAzODM3OTQsNzk0Nz
+eyJoaXN0b3J5IjpbMTUzNDU3MDU5NiwzNTAzODM3OTQsNzk0Nz
 A2NDc2LC0yMDg4NzQ2NjEyXX0=
 -->
