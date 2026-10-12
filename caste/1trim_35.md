@@ -53,6 +53,14 @@
 	- alternante
 		- conoce los pensamientos de un solo personaje
 		- omisciencia selectiva o multiselectiva
+- Tiempo (tiempo historia != tiempo argumento)
+	- lineal: orden cronológico
+	- anacrónico (modificado)
+		- in media res: en el medio de la nada
+		- analepsis / flashback
+		- prolepsis / flashforward
+	- íntimo: tisubjetivo de los personajes
+
 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
@@ -134,6 +142,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODc3NDM3MCwzNTAzODM3OTQsNzk0Nz
+eyJoaXN0b3J5IjpbMTAyNTg0ODM4OCwzNTAzODM3OTQsNzk0Nz
 A2NDc2LC0yMDg4NzQ2NjEyXX0=
 -->
