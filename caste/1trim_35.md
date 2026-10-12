@@ -49,6 +49,10 @@
 - Punto de vista: forma de aproximar la información que recibe el lector
 	- focalización cero: omnisciencia
 	- focalización interna: propia experiencia, protagonista o testigo
+	- focalización externa: ve a los personajes desde fuera, no puede entrar
+	- alternante
+		- conoce los pensamientos de un solo personaje
+		- omisciencia selectiva o multiselectiva
 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
@@ -130,6 +134,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MTc2NzA2LDM1MDM4Mzc5NCw3OTQ3MD
-Y0NzYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTAxODc3NDM3MCwzNTAzODM3OTQsNzk0Nz
+A2NDc2LC0yMDg4NzQ2NjEyXX0=
 -->
