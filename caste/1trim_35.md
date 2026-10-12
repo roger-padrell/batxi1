@@ -73,7 +73,10 @@
 ### Otros
 - _Aliteración_: repetición de sonidos semejantes (Mi mamá me mima, mi mamá me ama.)
 - _Encabalgamiento_: oración contínua en el verso siguiente
-- _Paranomasia_: palabras próximas de sonido parecido ()
+- _Paranomasia_: palabras próximas de sonido parecido (Pablito clavó un clavito,)
+- _Polípton_: misma palabra en diferentes formas (trabajo, trabajé)
+- _Retruécano_: repetición de palabras cambiando su orden y sentido (Quien no vive para servir, no sirve para vivir)
+- _
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTY0ODcxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjA1NDQyODAyOSwtMjA4ODc0NjYxMl19
 -->
