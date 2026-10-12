@@ -57,7 +57,10 @@
 - _Símil_: comparación explícita (como)
 - _Metonímia_: cambio de significado por proximidad (un dali ⇒ un quadro de dali)
 - _Sinécdoque_: todo por parte/parte por todo (diez cabezas ⇒ diez personas)
-### Intensid
+### Intensidad
+- _Hipérbole_: exageración (se murieron de miedo)
+- _Lítote_: expresar negando lo contrario (no muy fácil ⇒ muy difícil)
+- _Pleonasmo_: repetición innecesaria (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTE3MDA4MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTQ0Nzc0MDU4MiwtMjA4ODc0NjYxMl19
 -->
