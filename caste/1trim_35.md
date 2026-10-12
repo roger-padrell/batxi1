@@ -53,7 +53,11 @@
 - _Oxímoron_: dos **palabras** de significado contrario (Ángeles del Infierno)
 - _Paradoja_: dos ideas aparentemente irreconciliables (Si quieres paz, prepárate para la guerra.)
 ### Semejanza
-- _Metafora_: cambio de significado por sem
+- _Metafora_: cambio de significado por semejanza.
+- _Símil_: comparación explícita (como)
+- _Metonímia_: cambio de significado por proximidad (un dali ⇒ un quadro de dali)
+- _Sinécdoque_: todo por parte/parte por todo (diez cabezas ⇒ diez personas)
+### Intensid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNjM2NjQ1LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQ4MTE3MDA4MSwtMjA4ODc0NjYxMl19
 -->
