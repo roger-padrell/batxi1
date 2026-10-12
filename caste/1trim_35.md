@@ -31,6 +31,7 @@
 	- **Persona**: pronombre personal, posesivos, demostrativos, verbos conjugados (desinencias)
 	- **Espacial**: demostrativos, adverbos espaciales
 	- **Temporal**: adverbos, sintagmas temporales, formas verbales
+### Narrativa
 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
@@ -112,6 +113,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NTI2MDUxLDc5NDcwNjQ3NiwtMjA4OD
+eyJoaXN0b3J5IjpbMzUwMzgzNzk0LDc5NDcwNjQ3NiwtMjA4OD
 c0NjYxMl19
 -->
