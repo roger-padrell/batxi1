@@ -3,8 +3,12 @@
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
 |--|--|--|--|
-|tempus fugit|
-|carpe 
+|tempus fugit|homo viator|beatus ille|
+|carpe diem|vita flumen|aurea mediocritas|
+|quotidie morimur|theatrum mundi|locus amoenus|
+|omnia mors aequat|vanitas vanitatum|captatio benevolen
+|ubi sunt|contempus mundi|
+|somnium imago mortis|
 ### Paso del tiempo
 - _Tempus fugit_: el tiempo pasa rapidamente.
 - _Carpe diem_: aprovecha el dia.
@@ -30,5 +34,6 @@
 - _Venatus amoris_: amor como caceria.
 - _Collige, virgo, rosas_: caracter irrecuperable de la juventud y la belleza. Gozar del amor (rosas) antes de la muerte.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMjI2MDk4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExMTUwMTA2NTYsLTIwODg3NDY2MTJdfQ
+==
 -->
