@@ -68,6 +68,10 @@
 - _Ironía_: se da a entender lo contrario (eres muy gracioso)
 - _Interrogación retórica_: la respuesta se sobreentiende
 - _Apóstrofe_: interpelación directa
+### Adjetivación
+- _Epíteto_: adjetivo que no aumenta la comprensión, intrínsico
+- _Aliteración_: repetición de sonidos semejantes (Mi mamá me mima, mi mamá me ama.)
+- _
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzE4NjEzOCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTgxNjQ1MjIwMSwtMjA4ODc0NjYxMl19
 -->
