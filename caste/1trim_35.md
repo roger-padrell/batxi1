@@ -70,13 +70,15 @@
 - _Apóstrofe_: interpelación directa
 ### Adjetivación
 - _Epíteto_: adjetivo que no aumenta la comprensión, intrínsico
+- _Hipálage_: le de el adjetivo de un sustantivo a otro (en un ar)
 ### Otros
 - _Aliteración_: repetición de sonidos semejantes (Mi mamá me mima, mi mamá me ama.)
 - _Encabalgamiento_: oración contínua en el verso siguiente
 - _Paranomasia_: palabras próximas de sonido parecido (Pablito clavó un clavito,)
 - _Polípton_: misma palabra en diferentes formas (trabajo, trabajé)
 - _Retruécano_: repetición de palabras cambiando su orden y sentido (Quien no vive para servir, no sirve para vivir)
-- _
+- _Zeugma_: omisión de una palabra que se sobreentiende
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDQyODAyOSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTM0MDYwNzU4NywtMjA4ODc0NjYxMl19
 -->
