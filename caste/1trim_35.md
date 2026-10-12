@@ -141,7 +141,8 @@
 - _Retruécano_: repetición de palabras cambiando su orden y sentido (Quien no vive para servir, no sirve para vivir)
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
+## Libro (el misterio de la cripta embrujada)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDU3MDU5NiwzNTAzODM3OTQsNzk0Nz
+eyJoaXN0b3J5IjpbMTI3NTY4MTc4NiwzNTAzODM3OTQsNzk0Nz
 A2NDc2LC0yMDg4NzQ2NjEyXX0=
 -->
