@@ -63,7 +63,11 @@
 - _Pleonasmo_: repetición innecesaria (Tenemos que salir afuera)
 ### Humanización/sentidos
 - _Personificación_: atribuir cualidades humanas
-- _Sinestesia_: unión de sensaciones (frío azul ==> 
+- _Sinestesia_: unión de sensaciones (frío azul ⇒ tacto y vista)
+### Intención expresiva
+- _Ironía_: se da a entender lo contrario (eres muy gracioso)
+- _Interrogación retórica_: la respuesta se sobreentiende
+- _Apóstrofe_: interpelación directa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxOTg2OTQyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAzNzE4NjEzOCwtMjA4ODc0NjYxMl19
 -->
