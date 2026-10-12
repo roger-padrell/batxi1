@@ -34,8 +34,11 @@
 - _Venatus amoris_: amor como caceria.
 - _Collige, virgo, rosas_: caracter irrecuperable de la juventud y la belleza. Gozar del amor (rosas) antes de la muerte.
 
-## 
+## Figuras retoricas
+### Repetición
+- _Anafora_: repetición al incio
+- _
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYzMDUzOTAsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE2OTY5ODk0NjYsLTIwODg3NDY2MTJdfQ
 ==
 -->
