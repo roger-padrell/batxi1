@@ -35,7 +35,11 @@
 - Género literario escrito en prosa. El autor, a través de la voz narrativa nos explica una história/argumento sobre unos personajes en un espacio y tiempo.
 - Estructure:
 	- circular (empieza por el desenlace)
-	- lineal (pl
+	- lineal (planteamiento, nudo, desenlace)
+- Narrador:
+	- 3a persona (no hay marcas textuales)
+		- omnisciente (neutral o editor
+		- 
 ## Topicos literarios
 |paso del tiempo|existencia humana|vida sencilla|mujer y amor|
 |--|--|--|--|
@@ -116,6 +120,6 @@
 - _Zeugma_: omisión de una palabra que se sobreentiende
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzg0NTQ3MiwzNTAzODM3OTQsNzk0Nz
+eyJoaXN0b3J5IjpbLTQ4ODk1MDAyNCwzNTAzODM3OTQsNzk0Nz
 A2NDc2LC0yMDg4NzQ2NjEyXX0=
 -->
