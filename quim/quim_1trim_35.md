@@ -57,8 +57,14 @@ F = k*((q1 * q2)/r²)
 ```
 ### Afinitat electrònica
 - Intercanvi energètic que es produeix quan un àtom neutre en estat gasos guanya un electró.
-- (-nivells = +atracció = +afinitat || +càrrega = +atracció = +)
+- (-nivells = +atracció = +afinitat || +càrrega = +atracció = +afinitat)
+
+### Electronegativitat
+- Habilitat d'un àtom per atreure un e⁻ compartit en un enllaç covalent.
+- (-nivells = +atracció = +afinitat || +càrrega = +atracció = +afinitat)
+- Escala de Pauling [0,4] sense unitats
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAwOTY5NTksLTExOTY1NjA5ODldfQ
+eyJoaXN0b3J5IjpbLTE1OTc5ODc1NjIsLTExOTY1NjA5ODldfQ
 ==
 -->
