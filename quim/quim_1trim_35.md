@@ -70,7 +70,13 @@ F = k*((q1 * q2)/r²)
 	- Pura:
 		- Element: àtoms del mateix n. de p⁺
 		- Compost: dos o més elements
-- S'enllacen per disminuir la seva energia (més estabilitat)
+- S'enllacen per disminuir la seva energia (més estabilitat) ⇒ equilibri entre forçes d'atracció i repulsió
+- Enllaços:
+	- _iònic_: intercanvi de e⁻ (metall - no metall)
+		- metall catió, no met. anió
+		- xarxes
+	- _metàlic_: e⁻ externs en un n´
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNDM2Nzg1LC0xMTk2NTYwOTg5XX0=
+eyJoaXN0b3J5IjpbLTE3NjU4MDMwMjksLTExOTY1NjA5ODldfQ
+==
 -->
