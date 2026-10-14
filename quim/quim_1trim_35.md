@@ -62,9 +62,16 @@ F = k*((q1 * q2)/r²)
 ### Electronegativitat
 - Habilitat d'un àtom per atreure un e⁻ compartit en un enllaç covalent.
 - (-nivells = +atracció = +afinitat || +càrrega = +atracció = +afinitat)
-- Escala de Pauling [0,4] sense unitats
-- 
+- Escala de Pauling (menys a més) [0,4] sense unitats
+
+## Elements i compostos
+- Substància
+	- Mescla
+	- Pura:
+		- Element: àtoms del mateix n. de p⁺
+		- Compost: dos o més elements
+- S'enllacen per balan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc5ODc1NjIsLTExOTY1NjA5ODldfQ
+eyJoaXN0b3J5IjpbLTE5NTkzNDk3NDAsLTExOTY1NjA5ODldfQ
 ==
 -->
