@@ -79,7 +79,8 @@ F = k*((q1 * q2)/r²)
 		- xarxes
 	- _covalent_: dos àtoms **volen** electrons, comparteixen els de la capa superior (no metall - no metall)
 		- exepcions a la "regla de l'octet": H (2); Be (4); B (6); P,S,Cl,Se,Br,I... (+8)
-		- molècules excepte: 
+		- molècules excepte: C(diamant, grafit), SiO_2(quartz), SiC(carbur de silici)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxODc3MDM4LC0xMTk2NTYwOTg5XX0=
+eyJoaXN0b3J5IjpbOTc1NDc1OTgwLDQ3MTg3NzAzOCwtMTE5Nj
+U2MDk4OV19
 -->
