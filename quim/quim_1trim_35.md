@@ -78,7 +78,7 @@ F = k*((q1 * q2)/r²)
 	- _metàlic_: e⁻ externs en un núvol electrònic compartit (metall - metall)
 		- xarxes
 	- _covalent_: dos àtoms **volen** electrons, comparteixen els de la capa superior (no metall - no metall)
-		- exepcions a la "regla de l'octet": H (2), Be (4), B
+		- exepcions a la "regla de l'octet": H (2), Be (4), B (6)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE4MzY4NCwtMTE5NjU2MDk4OV19
+eyJoaXN0b3J5IjpbMTEwNDc5MDYyNSwtMTE5NjU2MDk4OV19
 -->
