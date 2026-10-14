@@ -84,9 +84,16 @@ F = k*((q1 * q2)/r²)
 
 ## Geometria molecular
 - distribucions minimitzen les repulsions entre parells d'electons enllaçants (B) i no enllaçants (E)
-- Teoria de la Repulsió dels Parells d'Electrons de l
+- Teoria de la Repulsió dels Parells d'Electrons de la Capa de València
+	- dibuixar diagrama de Lewis
+	- contar enllaços (B) i electrons del àtom central no enllaçants (E).
+	- buscar la menor repulsió
+- tipus
+	- AB2: lineal
+	- AB3: planotriangular
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NTA5NjczLDQ3MTg3NzAzOCwtMTE5Nj
+eyJoaXN0b3J5IjpbMzg1MTcwMDQ4LDQ3MTg3NzAzOCwtMTE5Nj
 U2MDk4OV19
 -->
