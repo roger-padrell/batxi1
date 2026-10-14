@@ -80,7 +80,13 @@ F = k*((q1 * q2)/r²)
 	- _covalent_: dos àtoms **volen** electrons, comparteixen els de la capa superior (no metall - no metall)
 		- exepcions a la "regla de l'octet": H (2); Be (4); B (6); P,S,Cl,Se,Br,I... (+8)
 		- molècules excepte: C(diamant, grafit), SiO_2(quartz), SiC(carbur de silici)
+- estructura ressonant: multiples possibilitats per a diagrames de Lewis
+
+## Geometria molecular
+- distribucions minimitzen les repulsions entre parells d'electons enllaçants (B) i no enllaçants (E)
+- Teoria de la Repulsió dels Parells d'Electrons de l
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NDc1OTgwLDQ3MTg3NzAzOCwtMTE5Nj
+eyJoaXN0b3J5IjpbNjU0NTA5NjczLDQ3MTg3NzAzOCwtMTE5Nj
 U2MDk4OV19
 -->
