@@ -70,8 +70,7 @@ F = k*((q1 * q2)/r²)
 	- Pura:
 		- Element: àtoms del mateix n. de p⁺
 		- Compost: dos o més elements
-- S'enllacen per balan
+- S'enllacen per disminuir la seva energia (més estabilitat)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkzNDk3NDAsLTExOTY1NjA5ODldfQ
-==
+eyJoaXN0b3J5IjpbMjUyNDM2Nzg1LC0xMTk2NTYwOTg5XX0=
 -->
