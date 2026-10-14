@@ -75,8 +75,10 @@ F = k*((q1 * q2)/r²)
 	- _iònic_: intercanvi de e⁻ (metall - no metall)
 		- metall catió, no met. anió
 		- xarxes
-	- _metàlic_: e⁻ externs en un n´
+	- _metàlic_: e⁻ externs en un núvol electrònic compartit (metall - metall)
+		- xarxes
+	- _covalent_: dos àtoms **volen** electrons, comparteixen els de la capa superior (no metall - no metall)
+		- exepcions a la "regla de l'octet": H (2), Be (4), B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU4MDMwMjksLTExOTY1NjA5ODldfQ
-==
+eyJoaXN0b3J5IjpbLTE0OTE4MzY4NCwtMTE5NjU2MDk4OV19
 -->
