@@ -55,7 +55,10 @@
 ```
 F = k*((q1 * q2)/r²)
 ```
-### Q
+### Afinitat electrònica
+- Intercanvi energètic que es produeix quan un àtom neutre en estat gasos guanya un electró.
+- (-nivells = +atracció = +afinitat || +càrrega = +atracció = +)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MzI2MjUxLC0xMTk2NTYwOTg5XX0=
+eyJoaXN0b3J5IjpbLTExNjAwOTY5NTksLTExOTY1NjA5ODldfQ
+==
 -->
