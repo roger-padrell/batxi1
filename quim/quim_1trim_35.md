@@ -91,9 +91,14 @@ F = k*((q1 * q2)/r²)
 - tipus
 	- AB2: lineal
 	- AB3: planotriangular
-	- 
+	- AB4:
+		- AB4: tetaèdrica
+		- AB3E: piramidal trigonal
+		- AB2E2: angular
 
+## No metalls
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MTcwMDQ4LDQ3MTg3NzAzOCwtMTE5Nj
-U2MDk4OV19
+eyJoaXN0b3J5IjpbLTM5Nzg2NjgwNiw0NzE4NzcwMzgsLTExOT
+Y1NjA5ODldfQ==
 -->
