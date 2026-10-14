@@ -40,20 +40,22 @@
   - orbital màxima energia defineix columna dins el bloc ([1,2], [3...12], [13...17])
   - maxim valor de n defineix linea (període)
 
-- Propietats:
-  - Radi atòmic (+nivells -> ++radi || +càrrega -> -radi)
-  - potencial d'ionització: energia necessaria per arrencar un e⁻ **de la capa més externa d'un àtom neutre gasòs** (+nivells -> --PI || +càrrega -> +PI)
+## Propietats:
+1. Definir propietat
+2. Definir model (nivells energètics / càrregues elèctriques)
+3. Configuracions i anàlisi
+4. Conclusió i resposta
+ ### Radi atòmic 
+ - (+nivells -> ++radi || +càrrega -> -radi)
+### Potencial d'ionització
+- energia necessaria per arrencar un e⁻ **de la capa més externa d'un àtom neutre gasòs** 
+- (+nivells -> --PI || +càrrega -> +PI)
 
 - Llei de Coulomb: 
 ```
 F = k*((q1 * q2)/r²)
 ```
-
-- Procediment propietats: 
-  1. Definir propietat
-  2. Definir model (nivells energètics / càrregues elèctriques)
-  3. Configuracions i anàlisi
-  4. Conclusió i resposta
+### Q
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY1NjA5ODldfQ==
+eyJoaXN0b3J5IjpbMzc0MzI2MjUxLC0xMTk2NTYwOTg5XX0=
 -->
