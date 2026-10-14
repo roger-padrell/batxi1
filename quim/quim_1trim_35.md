@@ -97,8 +97,18 @@ F = k*((q1 * q2)/r²)
 		- AB2E2: angular
 
 ## No metalls
-- 
+- Hidrogen (H)
+- Carboni (C)
+- Nitrogen (N)
+- Oxigen (O)
+- Fòsfor (P)
+- Sofre (S)
+- Seleni (Se)
+- Fluor (F)
+- Clor (Cl)
+- Brom (Br)
+- Iode (I)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Nzg2NjgwNiw0NzE4NzcwMzgsLTExOT
-Y1NjA5ODldfQ==
+eyJoaXN0b3J5IjpbLTg2MTM0Miw0NzE4NzcwMzgsLTExOTY1Nj
+A5ODldfQ==
 -->
