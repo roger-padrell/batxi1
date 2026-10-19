@@ -30,8 +30,12 @@
 	- no és un camí fàcil, ni una solució ràpida. Felicitat real, comprensió profunda del món.
 - Pensar en la vida:
 	- _vida més humana_: reflexionar sobre el que el fa humà et fa comprendre com funciona la realitat i formar-ne part 
+		- Karl Jaspers: vida+raó, com millorar
+	- _vida més lliure_: llibertat subjectiva, no viure en "estat d'interpreta", no tenir "existència inautèntica"
+		- Martin Hedegger
+- Filosofia: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NDQ1MzE0LC04ODYzMzEyNjUsMjAyNj
-E0ODczNywtMTA0NzA0OTM0NSwtMzU4NzAzMzc4LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMTQ0Mjg5MTk1NywtODg2MzMxMjY1LDIwMj
+YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
+MTZdfQ==
 -->
