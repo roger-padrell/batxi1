@@ -21,9 +21,14 @@
 	- Bell Hooks: amor és eina de canvi, transparència i compromís contra opressió
 
 ## Objecte de la filosofia
-- Saviesa = 
+- Saviesa: felicitat en el si de la veritat
+	- totalitat amb l'home
+	- home amb la totalitat
+- Veritat: conèixer
+- felicitat: saber conviure, política
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mjg3NjU1OSwtODg2MzMxMjY1LDIwMj
+eyJoaXN0b3J5IjpbLTI3MTQ5Mjc1NSwtODg2MzMxMjY1LDIwMj
 YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
 MTZdfQ==
 -->
