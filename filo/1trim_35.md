@@ -63,9 +63,9 @@
 	- Urgència: vida curta
 
 ## Especialitats
-
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg3NzY1MTUsLTEzNjQ5MTU4NzgsLT
-g4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3
-MDMzNzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTExNTI1MzUyNCwtMTM2NDkxNTg3OCwtOD
+g2MzMxMjY1LDIwMjYxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcw
+MzM3OCw3MzA5OTgxMTZdfQ==
 -->
