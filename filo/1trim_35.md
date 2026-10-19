@@ -79,9 +79,13 @@
 	- Opinió vs certesa
 - **Lògica**: ingerència, estructura, lleis (a, aleshores b)
 - **Filosofia analítica/del llenguatge**: aclara el que es pot (és possible) dir utilitzant el llenguate
-	- qye niden
+	- que podem dir que tingui sentit?
+	- límits del llenguatge
+	- relació llengua vs veritat/realitat
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTczNjM5MSwtMTcwNzk5MTIxMSwtMT
+eyJoaXN0b3J5IjpbLTM3MDY5MzMzMywtMTcwNzk5MTIxMSwtMT
 M2NDkxNTg3OCwtODg2MzMxMjY1LDIwMjYxNDg3MzcsLTEwNDcw
 NDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgxMTZdfQ==
 -->
