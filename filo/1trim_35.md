@@ -33,9 +33,11 @@
 		- Karl Jaspers: vida+raó, com millorar
 	- _vida més lliure_: llibertat subjectiva, no viure en "estat d'interpreta", no tenir "existència inautèntica"
 		- Martin Hedegger
-- Filosofia: 
+- Filosofia: treball constant, activitat
+	- Saviesa, coneixement, repòs, serenitat, objectiu suprem mai assolit.
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mjg5MTk1NywtODg2MzMxMjY1LDIwMj
+eyJoaXN0b3J5IjpbLTYxMTU0MjM2NSwtODg2MzMxMjY1LDIwMj
 YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
 MTZdfQ==
 -->
