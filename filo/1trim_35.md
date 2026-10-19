@@ -18,8 +18,8 @@
 	- Simone de Beauvoir: amor és respecte i lliebertat mútua
 	- Erich Fromm: amor és art que has d'aprendre, afavorir el creixement
 	- Simone Weil: amor és atenció absoluta, mirar sense posseïr, justícia
-	- Bell Hooks: amor és eina de canvi, transparència 
+	- Bell Hooks: amor és eina de canvi, transparència i compromís contra opressió
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDc1Mjc2MCwyMDI2MTQ4NzM3LC0xMD
+eyJoaXN0b3J5IjpbLTg4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMD
 Q3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4MTE2XX0=
 -->
