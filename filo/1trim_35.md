@@ -36,9 +36,11 @@
 - Filosofia: treball constant, activitat
 	- Saviesa, coneixement, repòs, serenitat, objectiu suprem mai assolit.
 - ningú no pot filosofar per nosaltres, no podem pensar sols sense guiarnos per les idees dels altres, sense herencia i història no hi ha pensament
-- pensar és l'origen, l'autonomiaa
+- pensar és l'origen, l'autonomia del pensament implica que no hem de seguir els altres, sino reflexionar per nosaltres mateixos. Recolzar-se en el pensament d'altres és crucial, sistemes de pensament, aprenentatge, preguntes fonamentals.
+
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzc4OTI5OCwtODg2MzMxMjY1LDIwMj
-YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzk5NTkxODMsLTg4NjMzMTI2NSwyMD
+I2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4
+MTE2XX0=
 -->
