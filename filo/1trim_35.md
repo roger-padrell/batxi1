@@ -50,9 +50,19 @@
 9. vida més lliure, més autèntica
 10. actituds centrífuges ⇒ la filosofia torna a posar-nos al centre
 
-## Grans questions -- Kant 
+## Grans questions -- Kant
+- Preguntes:
+	- Que puc conèixer?
+	- Que he de fer (moral)?
+	- Que puc esperar (consequències)?
+	- Que és l'home?
+- Causes:
+	- Admiració
+	- Sospita
+	- Con
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQ5MTU4NzgsLTg4NjMzMTI2NSwyMD
-I2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTkwMzYzMjU2MCwtMTM2NDkxNTg3OCwtOD
+g2MzMxMjY1LDIwMjYxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcw
+MzM3OCw3MzA5OTgxMTZdfQ==
 -->
