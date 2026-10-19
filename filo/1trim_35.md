@@ -26,9 +26,11 @@
 	- home amb la totalitat
 - Veritat: conèixer
 - felicitat: saber conviure, política, estètica ⇒ vida més humana, més lúcida, més lliure
-- la filosofia busca saviesa, vida més plena i racional
+- la filosofia busca saviesa, vida més plena i racional, més coherent, lúcida, autèntica
+	- no és un camí fàcil, ni una solució ràpida. Felicitat real, comprensió profunda del món.
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA1OTg4MDIsLTg4NjMzMTI2NSwyMD
+eyJoaXN0b3J5IjpbLTIxMTQwMjY4NDQsLTg4NjMzMTI2NSwyMD
 I2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4
 MTE2XX0=
 -->
