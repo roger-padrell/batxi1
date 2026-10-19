@@ -48,9 +48,11 @@
 7. Història de la filosofia ⇒ facilita el nostre pensament
 8. utilitat vs importància
 9. vida més lliure, més autèntica
-10. actituds centrífuges ⇒ la filosofia  
+10. actituds centrífuges ⇒ la filosofia torna a posar-nos al centre
+
+## Grans questions -- Kant 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA0MjI5NjksLTg4NjMzMTI2NSwyMD
+eyJoaXN0b3J5IjpbLTEzNjQ5MTU4NzgsLTg4NjMzMTI2NSwyMD
 I2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4
 MTE2XX0=
 -->
