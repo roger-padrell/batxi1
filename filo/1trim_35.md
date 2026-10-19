@@ -70,17 +70,18 @@
 - per què hi ha alguna cosa?
 - per què / per _a_ què hi ha el que hi ha?
 
-### Epistemologia
-- teoría del coneixement vertader, possibilitats, límits
+### Filosofia del Coneixement
+- **Epistemologia**: teoría del coneixement vertader, possibilitats, límits
 	- Que vol dir conèixer?
 	- Que podem conèixer?
 	- Com hi arribem (mètode)?
 	- Condicions i límits del coneixement
 	- Opinió vs certesa
-	- 
-
+- **Lògica**: ingerència, estructura, lleis (a, aleshores b)
+- **Filosofia analítica/del llenguatge**: aclara el que es pot (és possible) dir utilitzant el llenguate
+	- qye niden
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI2MTcwMTUsLTE3MDc5OTEyMTEsLT
-EzNjQ5MTU4NzgsLTg4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMDQ3
-MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTc0OTczNjM5MSwtMTcwNzk5MTIxMSwtMT
+M2NDkxNTg3OCwtODg2MzMxMjY1LDIwMjYxNDg3MzcsLTEwNDcw
+NDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgxMTZdfQ==
 -->
