@@ -14,8 +14,12 @@
 	- **philia**: estimar allò que tens, alegre i comparteix, benestar de l'objecte
 	- **agapé**: caritat, atruïsme, amor al pròxim, amor de Déu, ignorat, incondicional, donat per suposat
 - Contemporani:
-	- 
+	- Soren Kierkegaard: amor és responsabilitat i decisió quotidiana
+	- Simone de Beauvoir: amor és respecte i lliebertat mútua
+	- Erich Fromm: amor és art que has d'aprendre, afavorir el creixement
+	- Simone Weil: amor és atenció absoluta, mirar sense posseïr, justícia
+	- Bell Hooks: amor és eina de canvi, transparència 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjE0ODczNywtMTA0NzA0OTM0NSwtMz
-U4NzAzMzc4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTY5NDc1Mjc2MCwyMDI2MTQ4NzM3LC0xMD
+Q3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4MTE2XX0=
 -->
