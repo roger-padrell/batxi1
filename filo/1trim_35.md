@@ -71,11 +71,16 @@
 - per què / per _a_ què hi ha el que hi ha?
 
 ### Epistemologia
-
-
+- teoría del coneixement vertader, possibilitats, límits
+	- Que vol dir conèixer?
+	- Que podem conèixer?
+	- Com hi arribem (mètode)?
+	- Condicions i límits del coneixement
+	- Opinió vs certesa
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc5OTEyMTEsLTEzNjQ5MTU4NzgsLT
-g4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3
-MDMzNzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1MDI2MTcwMTUsLTE3MDc5OTEyMTEsLT
+EzNjQ5MTU4NzgsLTg4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMDQ3
+MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4MTE2XX0=
 -->
