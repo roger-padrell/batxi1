@@ -5,10 +5,10 @@
 	- fer la pregunta i intentar respondre-la
 	- reflexió RADICAL sobre el fonamental i essencial
 
-- amor:
-	- 
-
-
+## Amor
+	
+	- **eros**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODcwMzM3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjAwNTAxMTAzNCwtMzU4NzAzMzc4LDczMD
+k5ODExNl19
 -->
