@@ -35,9 +35,9 @@
 		- Martin Hedegger
 - Filosofia: treball constant, activitat
 	- Saviesa, coneixement, repòs, serenitat, objectiu suprem mai assolit.
-	- 
+- ningú no pot filosofar per
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTU0MjM2NSwtODg2MzMxMjY1LDIwMj
+eyJoaXN0b3J5IjpbMTkwOTMzMzU5MywtODg2MzMxMjY1LDIwMj
 YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
 MTZdfQ==
 -->
