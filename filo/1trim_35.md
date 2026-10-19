@@ -25,10 +25,10 @@
 	- totalitat amb l'home
 	- home amb la totalitat
 - Veritat: conèixer
-- felicitat: saber conviure, política
-
+- felicitat: saber conviure, política, estètica ⇒ vida més humana, més lúcida, més lliure
+- la filosofia busca saviesa, vida més plena i racional
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTQ5Mjc1NSwtODg2MzMxMjY1LDIwMj
-YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzA1OTg4MDIsLTg4NjMzMTI2NSwyMD
+I2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4
+MTE2XX0=
 -->
