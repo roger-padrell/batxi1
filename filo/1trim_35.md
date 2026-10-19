@@ -28,9 +28,10 @@
 - felicitat: saber conviure, política, estètica ⇒ vida més humana, més lúcida, més lliure
 - la filosofia busca saviesa, vida més plena i racional, més coherent, lúcida, autèntica
 	- no és un camí fàcil, ni una solució ràpida. Felicitat real, comprensió profunda del món.
-	- 
+- Pensar en la vida:
+	- _vida més humana_: reflexionar sobre el que el fa humà et fa comprendre com funciona la realitat i formar-ne part 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQwMjY4NDQsLTg4NjMzMTI2NSwyMD
-I2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbNDU5NDQ1MzE0LC04ODYzMzEyNjUsMjAyNj
+E0ODczNywtMTA0NzA0OTM0NSwtMzU4NzAzMzc4LDczMDk5ODEx
+Nl19
 -->
