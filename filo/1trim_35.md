@@ -63,9 +63,19 @@
 	- Urgència: vida curta
 
 ## Especialitats
-###
+### Metafísica: que és existir
+- Identitat
+	- qualitativa
+	- numérica
+- per què hi ha alguna cosa?
+- per què / per _a_ què hi ha el que hi ha?
+
+### Epistemologia
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTI1MzUyNCwtMTM2NDkxNTg3OCwtOD
-g2MzMxMjY1LDIwMjYxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcw
-MzM3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDc5OTEyMTEsLTEzNjQ5MTU4NzgsLT
+g4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3
+MDMzNzgsNzMwOTk4MTE2XX0=
 -->
