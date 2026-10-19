@@ -19,7 +19,11 @@
 	- Erich Fromm: amor és art que has d'aprendre, afavorir el creixement
 	- Simone Weil: amor és atenció absoluta, mirar sense posseïr, justícia
 	- Bell Hooks: amor és eina de canvi, transparència i compromís contra opressió
+
+## Objecte de la filosofia
+- Saviesa = 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMD
-Q3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE2Mjg3NjU1OSwtODg2MzMxMjY1LDIwMj
+YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
+MTZdfQ==
 -->
