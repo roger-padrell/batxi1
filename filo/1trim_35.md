@@ -6,9 +6,11 @@
 	- reflexió RADICAL sobre el fonamental i essencial
 
 ## Amor
-	
+- Plató: desig d'allò que manca
+- Deleuze: desig com a impulsor de l'acció
+- Tipus:	
 	- **eros**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTAxMTAzNCwtMzU4NzAzMzc4LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3Mz
+A5OTgxMTZdfQ==
 -->
