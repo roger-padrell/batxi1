@@ -9,8 +9,8 @@
 - Plató: desig d'allò que manca
 - Deleuze: desig com a impulsor de l'acció
 - Tipus:	
-	- **eros**: 
+	- **eros**: allò 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODYwODUyNjc4LC0xMDQ3MDQ5MzQ1LC0zNT
+g3MDMzNzgsNzMwOTk4MTE2XX0=
 -->
