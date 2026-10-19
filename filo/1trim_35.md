@@ -57,12 +57,15 @@
 	- Que puc esperar (consequències)?
 	- Que és l'home?
 - Causes:
-	- Admiració
-	- Sospita
-	- Con
+	- Admiració: sorpresa davant el desconegut
+	- Sospita: engany que ens expliquen
+	- Consciència humana de la mort
+	- Urgència: vida curta
+
+## Especialitats
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzYzMjU2MCwtMTM2NDkxNTg3OCwtOD
-g2MzMxMjY1LDIwMjYxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcw
-MzM3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NDg3NzY1MTUsLTEzNjQ5MTU4NzgsLT
+g4NjMzMTI2NSwyMDI2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3
+MDMzNzgsNzMwOTk4MTE2XX0=
 -->
