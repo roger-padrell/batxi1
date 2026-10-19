@@ -38,9 +38,14 @@
 - ningú no pot filosofar per nosaltres, no podem pensar sols sense guiarnos per les idees dels altres, sense herencia i història no hi ha pensament
 - pensar és l'origen, l'autonomia del pensament implica que no hem de seguir els altres, sino reflexionar per nosaltres mateixos. Recolzar-se en el pensament d'altres és crucial, sistemes de pensament, aprenentatge, preguntes fonamentals.
 
-1. 
+1. Forma de pensar en el mon = estar en el mon
+2. preguntes i respostes ⇒ generen més
+3. insatisfacció davant les possibilitats,
+4. Més enllà de la ciència o qualsevol disciplina
+5. Anàlisi conceptes
+6. Acu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk5NTkxODMsLTg4NjMzMTI2NSwyMD
+eyJoaXN0b3J5IjpbLTIwOTg4MzM2MTgsLTg4NjMzMTI2NSwyMD
 I2MTQ4NzM3LC0xMDQ3MDQ5MzQ1LC0zNTg3MDMzNzgsNzMwOTk4
 MTE2XX0=
 -->
