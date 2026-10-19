@@ -35,9 +35,10 @@
 		- Martin Hedegger
 - Filosofia: treball constant, activitat
 	- Saviesa, coneixement, repòs, serenitat, objectiu suprem mai assolit.
-- ningú no pot filosofar per
+- ningú no pot filosofar per nosaltres, no podem pensar sols sense guiarnos per les idees dels altres, sense herencia i història no hi ha pensament
+- pensar és l'origen, l'autonomiaa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTMzMzU5MywtODg2MzMxMjY1LDIwMj
+eyJoaXN0b3J5IjpbMTQ3Mzc4OTI5OCwtODg2MzMxMjY1LDIwMj
 YxNDg3MzcsLTEwNDcwNDkzNDUsLTM1ODcwMzM3OCw3MzA5OTgx
 MTZdfQ==
 -->
