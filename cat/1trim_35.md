@@ -7,7 +7,14 @@
 - Contempus mundi
 - Deus ex machina
 - Descriptio puellae
-- Edat d'or: passat idealitzat
+- Edat d'or: passat idealitzat enfront de la corrupció present-
+- Fortuna mutabile
+- Homo viator
+- Justícia poètica: la bondat és premiada i la maldat castigada
+- L'amor és cec
+- La mort igualadora (omnia mors aequat)
+- Lo
+
 
 ## Figures retòriques
 
@@ -107,7 +114,7 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc5ODUxMjMsMTIyMjE4NTYxOSwtMT
+eyJoaXN0b3J5IjpbLTE5MDU2Mzk0NzIsMTIyMjE4NTYxOSwtMT
 UzMDIyOTYzNSwtMzI2ODc3NTU0LC0xMzk1MTg5NDMsNjY3NzAx
 MzQ4XX0=
 -->
