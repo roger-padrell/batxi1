@@ -26,7 +26,10 @@
 ## Figures retòriques
 - fonètiques:
 	- al·literació: repetir un o diversos sons per expressar un concepte
-	- onomatopeia: imitació sons de la na
+	- onomatopeia: imitació de sons de la natura
+- morfosintàctics:
+	- enumeració: substantius que s'acumulen
+
 ## Literatura
 - Espai de comunicació, reflexió i expressió artística
 - Suport bàsic:
@@ -123,7 +126,7 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjQ1MDc3MCwtNDE4NDUyODM3LDEyMj
+eyJoaXN0b3J5IjpbLTYxNzY1NzQxMiwtNDE4NDUyODM3LDEyMj
 IxODU2MTksLTE1MzAyMjk2MzUsLTMyNjg3NzU1NCwtMTM5NTE4
 OTQzLDY2NzcwMTM0OF19
 -->
