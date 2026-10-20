@@ -82,11 +82,14 @@
 	<br>
 	- Quantitatius: 
 		- molt, poc, quant, tant, bastant, gaire
-		- més, menys, massa, prou, força
+		- més, menys, massa, prou, *força*
 	- indefinits
 	- numerals:
 		- cardinals
 		- ordinals
+> pg 37.6
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUxODk0Myw2Njc3MDEzNDhdfQ==
+eyJoaXN0b3J5IjpbLTMyNjg3NzU1NCwtMTM5NTE4OTQzLDY2Nz
+cwMTM0OF19
 -->
