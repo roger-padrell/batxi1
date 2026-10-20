@@ -29,6 +29,12 @@
 	- onomatopeia: imitació de sons de la natura
 - morfosintàctics:
 	- enumeració: substantius que s'acumulen
+	- epítet: adjectiu inherent
+	- hipèrbaton: alteració de l'ordre
+	- anàfora: repetició de paraules al començament
+	- asíndeton: supresió de nexes
+	- polisíndeton: nexes innecessaris
+	- 
 
 ## Literatura
 - Espai de comunicació, reflexió i expressió artística
@@ -126,7 +132,7 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzY1NzQxMiwtNDE4NDUyODM3LDEyMj
-IxODU2MTksLTE1MzAyMjk2MzUsLTMyNjg3NzU1NCwtMTM5NTE4
-OTQzLDY2NzcwMTM0OF19
+eyJoaXN0b3J5IjpbLTE4OTUwMzgxOTEsLTYxNzY1NzQxMiwtND
+E4NDUyODM3LDEyMjIxODU2MTksLTE1MzAyMjk2MzUsLTMyNjg3
+NzU1NCwtMTM5NTE4OTQzLDY2NzcwMTM0OF19
 -->
