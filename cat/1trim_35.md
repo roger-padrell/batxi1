@@ -87,10 +87,13 @@
 	- numerals:
 		- cardinals
 		- ordinals
-> pròpi autor ⇒ mateix autor
-> entra a la mateixa ⇒ hi torna a entrar
-> altr
+> - pròpi autor ⇒ mateix autor
+> - entra a la mateixa ⇒ hi torna a entrar
+> - altre/altra
+> - tot Catalunya, tota la Unió Europea
+> - vàries persones ⇒ diverses persones
+> - no tenen molts/massa ⇒ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjE1OTEyMCwtMzI2ODc3NTU0LC0xMz
+eyJoaXN0b3J5IjpbLTY4Njk2NDE0NiwtMzI2ODc3NTU0LC0xMz
 k1MTg5NDMsNjY3NzAxMzQ4XX0=
 -->
