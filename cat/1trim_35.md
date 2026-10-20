@@ -13,8 +13,15 @@
 - Justícia poètica: la bondat és premiada i la maldat castigada
 - L'amor és cec
 - La mort igualadora (omnia mors aequat)
-- Lo
-
+- Locus amoenus
+- Locus ermus
+- Memento mori
+- Omnia vincit amor
+- Tempus fugit
+- Terra promesa
+- Travessa pel desert
+- Ubi sunt
+- Vita flumen
 
 ## Figures retòriques
 
@@ -114,7 +121,7 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU2Mzk0NzIsMTIyMjE4NTYxOSwtMT
-UzMDIyOTYzNSwtMzI2ODc3NTU0LC0xMzk1MTg5NDMsNjY3NzAx
-MzQ4XX0=
+eyJoaXN0b3J5IjpbLTQxODQ1MjgzNywxMjIyMTg1NjE5LC0xNT
+MwMjI5NjM1LC0zMjY4Nzc1NTQsLTEzOTUxODk0Myw2Njc3MDEz
+NDhdfQ==
 -->
