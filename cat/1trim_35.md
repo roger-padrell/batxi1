@@ -87,9 +87,10 @@
 	- numerals:
 		- cardinals
 		- ordinals
-> pg 37.6
-
+> pròpi autor ⇒ mateix autor
+> entra a la mateixa ⇒ hi torna a entrar
+> altr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjg3NzU1NCwtMTM5NTE4OTQzLDY2Nz
-cwMTM0OF19
+eyJoaXN0b3J5IjpbMTQwMjE1OTEyMCwtMzI2ODc3NTU0LC0xMz
+k1MTg5NDMsNjY3NzAxMzQ4XX0=
 -->
