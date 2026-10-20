@@ -92,8 +92,8 @@
 > - altre/altra
 > - tot Catalunya, tota la Unió Europea
 > - vàries persones ⇒ diverses persones
-> - no tenen molts/massa ⇒ 
+> - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Njk2NDE0NiwtMzI2ODc3NTU0LC0xMz
-k1MTg5NDMsNjY3NzAxMzQ4XX0=
+eyJoaXN0b3J5IjpbLTE1MzAyMjk2MzUsLTMyNjg3NzU1NCwtMT
+M5NTE4OTQzLDY2NzcwMTM0OF19
 -->
