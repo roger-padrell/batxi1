@@ -40,7 +40,6 @@
 	- metonímia: designació d'una cosa amb un altre nom
 	- personificació: qualitats humanes a éssers inanimats
 	- hipèrbole: s'exageren els temes
-	- 
 
 ## Literatura
 - Espai de comunicació, reflexió i expressió artística
@@ -138,7 +137,7 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDEwMDI3NywtNjE3NjU3NDEyLC00MT
+eyJoaXN0b3J5IjpbMTUwOTUyNDYyNiwtNjE3NjU3NDEyLC00MT
 g0NTI4MzcsMTIyMjE4NTYxOSwtMTUzMDIyOTYzNSwtMzI2ODc3
 NTU0LC0xMzk1MTg5NDMsNjY3NzAxMzQ4XX0=
 -->
