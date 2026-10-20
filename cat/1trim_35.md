@@ -34,6 +34,12 @@
 	- anàfora: repetició de paraules al començament
 	- asíndeton: supresió de nexes
 	- polisíndeton: nexes innecessaris
+- semàntics:
+	- comparació: amb el nexe _com_
+	- metàfora: comparació no explícita
+	- metonímia: designació d'una cosa amb un altre nom
+	- personificació: qualitats humanes a éssers inanimats
+	- hipèrbole: s'exageren els temes
 	- 
 
 ## Literatura
@@ -132,7 +138,7 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUwMzgxOTEsLTYxNzY1NzQxMiwtND
-E4NDUyODM3LDEyMjIxODU2MTksLTE1MzAyMjk2MzUsLTMyNjg3
-NzU1NCwtMTM5NTE4OTQzLDY2NzcwMTM0OF19
+eyJoaXN0b3J5IjpbMTIzMDEwMDI3NywtNjE3NjU3NDEyLC00MT
+g0NTI4MzcsMTIyMjE4NTYxOSwtMTUzMDIyOTYzNSwtMzI2ODc3
+NTU0LC0xMzk1MTg5NDMsNjY3NzAxMzQ4XX0=
 -->
