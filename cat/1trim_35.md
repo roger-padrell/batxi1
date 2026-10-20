@@ -70,6 +70,10 @@
 	- Musical moderna: obra teatral que incorpora peces modernes
 
 ## Llengua
+### Substantiu
+- Comú/propi
+- Comptables/no comptables
+- Con
 ### Determinants
 - Partícules que acompanyen el nom i indiquen el gènere i el nombre.
 - Tipus:
@@ -94,6 +98,6 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAyMjk2MzUsLTMyNjg3NzU1NCwtMT
-M5NTE4OTQzLDY2NzcwMTM0OF19
+eyJoaXN0b3J5IjpbMjE0NTE5OTM1NSwtMTUzMDIyOTYzNSwtMz
+I2ODc3NTU0LC0xMzk1MTg5NDMsNjY3NzAxMzQ4XX0=
 -->
