@@ -72,7 +72,19 @@
 ## Llengua
 ### Determinants
 - Partícules que acompanyen el nom i indiquen el gènere i el nombre.
-- Ti
+- Tipus:
+	- Article:
+		- determinat
+		- indeterminat
+	- Demostratiu
+	- Possessiu
+	- Interrogatiu
+	<br>
+	- Quantitatius
+	- indefinits
+	- numerals:
+		- cardinals
+		- ordinals
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MjQzODM2LDY2NzcwMTM0OF19
+eyJoaXN0b3J5IjpbOTgyNjEwODMsNjY3NzAxMzQ4XX0=
 -->
