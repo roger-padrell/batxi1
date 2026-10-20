@@ -80,11 +80,13 @@
 	- Possessiu
 	- Interrogatiu
 	<br>
-	- Quantitatius
+	- Quantitatius: 
+		- molt, poc, quant, tant, bastant, gaire
+		- més, menys, massa, prou, força
 	- indefinits
 	- numerals:
 		- cardinals
 		- ordinals
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNjEwODMsNjY3NzAxMzQ4XX0=
+eyJoaXN0b3J5IjpbLTEzOTUxODk0Myw2Njc3MDEzNDhdfQ==
 -->
