@@ -68,6 +68,11 @@
 	- Sarsuela: hispànica, parts cantades i parts recitades
 	- Opereta: frivolitat de la cort, cantada i recitada
 	- Musical moderna: obra teatral que incorpora peces modernes
+
+## Llengua
+### Determinants
+- Partícules que acompanyen el nom i indiquen el gènere i el nombre.
+- Ti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NzAxMzQ4XX0=
+eyJoaXN0b3J5IjpbNDA0MjQzODM2LDY2NzcwMTM0OF19
 -->
