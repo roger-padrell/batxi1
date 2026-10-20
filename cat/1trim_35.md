@@ -73,7 +73,9 @@
 ### Substantiu
 - Comú/propi
 - Comptables/no comptables
-- Con
+- Concrets/abstractes
+- Col·lectius/individuals
+- 
 ### Determinants
 - Partícules que acompanyen el nom i indiquen el gènere i el nombre.
 - Tipus:
@@ -98,6 +100,6 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTE5OTM1NSwtMTUzMDIyOTYzNSwtMz
+eyJoaXN0b3J5IjpbLTYzNjIwODQxNiwtMTUzMDIyOTYzNSwtMz
 I2ODc3NTU0LC0xMzk1MTg5NDMsNjY3NzAxMzQ4XX0=
 -->
