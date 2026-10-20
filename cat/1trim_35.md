@@ -1,6 +1,13 @@
 # Català 1trim 35%
 
 ## Tòpics literaris
+- Beatus ille
+- Captatio benevolentiae
+- Carpe diem
+- Contempus mundi
+- Deus ex machina
+- Descriptio puellae
+- Edat d'or: passat idealitzat
 
 ## Figures retòriques
 
@@ -100,6 +107,7 @@
 > - vàries persones ⇒ diverses persones
 > - no tenen molts/massa ⇒ gaires
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjE4NTYxOSwtMTUzMDIyOTYzNSwtMz
-I2ODc3NTU0LC0xMzk1MTg5NDMsNjY3NzAxMzQ4XX0=
+eyJoaXN0b3J5IjpbLTE2Mzc5ODUxMjMsMTIyMjE4NTYxOSwtMT
+UzMDIyOTYzNSwtMzI2ODc3NTU0LC0xMzk1MTg5NDMsNjY3NzAx
+MzQ4XX0=
 -->
