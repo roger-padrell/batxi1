@@ -91,7 +91,8 @@ a = ---------------------
 		- Sm = Cme - CMf = di' - ds = -JM
 	- indeterminat
 - tolerància ajustatge: Te + Tf = (ds'-di')+(ds-di)
+- quantitat de tolerància (grau de perfecció/precisió): grau IT (ISO)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIwOTQ4OTIsLTE0NDQ0NzAzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbNTUzMTc5Nzg2LC0xNDQ0NDcwMzcsMzkwOT
+gxNjE1XX0=
 -->
