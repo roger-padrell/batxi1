@@ -86,7 +86,11 @@ a = ---------------------
 	- amb joc: CM(eix) < Cm(forat)
 		- JM = CMf - Cme = ds - di'
 		- Jm = Cmf - CMe = di - ds'
+	- amb serratge:
+		- SM = CMe - Cmf = ds' - di = -Jm
+		- Sm = Cme - CMf = di' - ds = -JM
+	- indetermina
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUzNDQwMDEsLTE0NDQ0NzAzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbMTg4MjA0MDI5MCwtMTQ0NDQ3MDM3LDM5MD
+k4MTYxNV19
 -->
