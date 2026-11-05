@@ -47,11 +47,19 @@ a = -------------------
 
 #### Micròmetre
 ```
-    pas de rosca
-a = ------------
-    num de 
-``
+         pas de rosca
+a = --------------------
+    num divisions tambor
+```
+![Micrómetro en milésimas de pulgada - uso, lectura e interpretación | Prof.  Eduardo J. Stefanelli](https://www.stefanelli.eng.br/wp-content/uploads/2016/05/micrometro-bainha-revelada-polegada-milesimal.png)
+
+#### Angles (goniòmetre)
+```
+    divisió min regle fix
+a = ---------------------
+     num de parts nònius
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc2NTM4NjQsLTE0NDQ0NzAzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbMTE2NzgyMzg4MiwtMTQ0NDQ3MDM3LDM5MD
+k4MTYxNV19
 -->
