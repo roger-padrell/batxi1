@@ -94,8 +94,11 @@ a = ---------------------
 - quantitat de tolerància (grau de perfecció/precisió): grau IT (ISO)
 	- majúscula: forat
 	- minúscula: eix
-	- de més p (IT01) a més gran
+	- de més precís (IT01) a més imprecís (IT18)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5NzYxNTQwLC0xNDQ0NDcwMzcsMzkwOT
-gxNjE1XX0=
+eyJoaXN0b3J5IjpbMTYyNTY1MjM4MSwtMTQ0NDQ3MDM3LDM5MD
+k4MTYxNV19
 -->
