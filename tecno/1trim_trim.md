@@ -95,10 +95,13 @@ a = ---------------------
 	- majúscula: forat
 	- minúscula: eix
 	- de més precís (IT01) a més imprecís (IT18)
-
+- operacions amb toleràncies:
+	- L  = suma(cotes en positiu) - suma(cotes en negatiu)
+	- ds = suma(ds pos) - suma(di neg)
+	- di = suma(di pos) - suma(ds neg)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTY1MjM4MSwtMTQ0NDQ3MDM3LDM5MD
+eyJoaXN0b3J5IjpbMTUwODUzMTExMCwtMTQ0NDQ3MDM3LDM5MD
 k4MTYxNV19
 -->
