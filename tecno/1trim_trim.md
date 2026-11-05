@@ -39,15 +39,12 @@
 ### Instruments de mesura
 #### Peu de rei
 ```
-
-
-a = ----------
+    mínim val. superior
+a = -------------------
+    numero d val infer
 ```
 
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDAzNDI1NSwtMTQ0NDQ3MDM3LDM5MD
+eyJoaXN0b3J5IjpbMTY5NzI3ODI0NSwtMTQ0NDQ3MDM3LDM5MD
 k4MTYxNV19
 -->
