@@ -75,8 +75,11 @@ a = ---------------------
 - elements:
 	- cota nominal (**C**): referència
 	- cota màxima (**CM**)
-	- cota mínima (**Cm**
+	- cota mínima (**Cm**)
+	- desviació superior (**ds**): CM - C
+	- desviació inferior (**di**): Cm-C
+	- Tolerància (**T**): CM-Cm = ds - di
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNjExNzksLTE0NDQ0NzAzNywzOTA5OD
-E2MTVdfQ==
+eyJoaXN0b3J5IjpbLTEwNzUzMDk2MjksLTE0NDQ0NzAzNywzOT
+A5ODE2MTVdfQ==
 -->
