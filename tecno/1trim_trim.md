@@ -4,7 +4,9 @@
 	-	En sèrie
 	-	En paral·lel
 -	temps de cicle = màxim temps en una màquina
--	afegir màquina en paral·lel = dividir temps en màquina
+-	afegir màquina en paral·lel = dividir temps en màquina entre num. maquines
+
+
 
 ## Metrologia
 - Mesurar: comparar una magnitud coneguda presa com a unitat
@@ -26,6 +28,6 @@
 		- verificació: dins d'un rang de valors establert (passa - no passa)
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUwNTcwMzgsLTE0NDQ0NzAzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbODYwODA5OTMzLC0xNDQ0NDcwMzcsMzkwOT
+gxNjE1XX0=
 -->
