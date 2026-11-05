@@ -14,7 +14,8 @@
 - 235 base 10 ⇒ base 16:
 	- acumulació de residus i inversió
 	1. 235/15 C=14 R=11=B
-	2. 14/16 C=0 R=14=
+	2. 14/16 C=0 R=14=E
+	3. inversió: EB
 
 ## Metrologia
 - Mesurar: comparar una magnitud coneguda presa com a unitat
@@ -36,6 +37,6 @@
 		- verificació: dins d'un rang de valors establert (passa - no passa)
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTcwNTYwMTgsLTE0NDQ0NzAzNywzOT
+eyJoaXN0b3J5IjpbLTE4ODMzMjc4NTAsLTE0NDQ0NzAzNywzOT
 A5ODE2MTVdfQ==
 -->
