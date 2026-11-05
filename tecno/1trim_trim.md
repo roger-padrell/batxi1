@@ -15,8 +15,10 @@
 - Instruments de mesura:
 	- Tipus:
 		- directe: es llegeix el valor a l'instrument
-		- comparació: 
+		- comparació: diferències entre valor conegut i desconegut
+		- verificació: dins d'un rang de valors establert (passa - no passa)
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODQxOTU4NSwtMTQ0NDQ3MDM3LDM5MD
+eyJoaXN0b3J5IjpbLTQwODEzOTY4NywtMTQ0NDQ3MDM3LDM5MD
 k4MTYxNV19
 -->
