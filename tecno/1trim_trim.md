@@ -71,11 +71,12 @@ a = ---------------------
 	- aenor (une): espanyoles
 
 ## Toleràncies i ajustatges
-
-
-
-
+- Toleràncies: quantitat dimensional que indica l'interval de dimensions on es pot fabricar una peça
+- elements:
+	- cota nominal (**C**): referència
+	- cota màxima (**CM**)
+	- cota mínima (**Cm**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUxNzgwODUsLTE0NDQ0NzAzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbMzkzNjExNzksLTE0NDQ0NzAzNywzOTA5OD
+E2MTVdfQ==
 -->
