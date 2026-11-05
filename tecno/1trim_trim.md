@@ -35,8 +35,19 @@
 		- directe: es llegeix el valor a l'instrument
 		- comparació: diferències entre valor conegut i desconegut
 		- verificació: dins d'un rang de valors establert (passa - no passa)
-	- 
+
+### Instruments de mesura
+#### Peu de rei
+```
+
+
+a = ----------
+```
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMzMjc4NTAsLTE0NDQ0NzAzNywzOT
-A5ODE2MTVdfQ==
+eyJoaXN0b3J5IjpbLTU4MDAzNDI1NSwtMTQ0NDQ3MDM3LDM5MD
+k4MTYxNV19
 -->
