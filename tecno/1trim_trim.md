@@ -92,7 +92,10 @@ a = ---------------------
 	- indeterminat
 - tolerància ajustatge: Te + Tf = (ds'-di')+(ds-di)
 - quantitat de tolerància (grau de perfecció/precisió): grau IT (ISO)
+	- majúscula: forat
+	- minúscula: eix
+	- de més p (IT01) a més gran
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMTc5Nzg2LC0xNDQ0NDcwMzcsMzkwOT
+eyJoaXN0b3J5IjpbOTM5NzYxNTQwLC0xNDQ0NDcwMzcsMzkwOT
 gxNjE1XX0=
 -->
