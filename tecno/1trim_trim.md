@@ -66,8 +66,16 @@ a = ---------------------
 - conjunt de prescripcions tècniques que especifiquen i unifiquen aspectes en processos industrials
 - certificació: duta a terme per una identitat independent, normes o especificacions
 - normes i sistemes de normes: especificacions tècniques pactades entre fabricants, tècnics i usuaris
-- 
+- utilitzem:
+	- ISO: internacional
+	- aenor (une): espanyoles
+
+## Toleràncies i ajustatges
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI3OTUyMTUsLTE0NDQ0NzAzNywzOT
+eyJoaXN0b3J5IjpbLTEzNzUxNzgwODUsLTE0NDQ0NzAzNywzOT
 A5ODE2MTVdfQ==
 -->
