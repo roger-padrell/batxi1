@@ -43,8 +43,15 @@
 a = -------------------
     numero d val infer
 ```
+![El peu de rei | Restaura la moto!](https://restauralamoto.com/wp-content/uploads/2014/07/El-peu-de-rei.jpg)
 
+#### Micròmetre
+```
+    pas de rosca
+a = ------------
+    num de 
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzI3ODI0NSwtMTQ0NDQ3MDM3LDM5MD
-k4MTYxNV19
+eyJoaXN0b3J5IjpbLTIwMjc2NTM4NjQsLTE0NDQ0NzAzNywzOT
+A5ODE2MTVdfQ==
 -->
