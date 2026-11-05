@@ -63,8 +63,11 @@ a = ---------------------
 
 
 ## Normalització
-
+- conjunt de prescripcions tècniques que especifiquen i unifiquen aspectes en processos industrials
+- certificació: duta a terme per una identitat independent, normes o especificacions
+- normes i sistemes de normes: especificacions tècniques pactades entre fabricants, tècnics i usuaris
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDQwNjcxMywtMTQ0NDQ3MDM3LDM5MD
-k4MTYxNV19
+eyJoaXN0b3J5IjpbLTEzMTI3OTUyMTUsLTE0NDQ0NzAzNywzOT
+A5ODE2MTVdfQ==
 -->
