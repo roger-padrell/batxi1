@@ -59,7 +59,12 @@ a = --------------------
 a = ---------------------
      num de parts nònius
 ```
+![Download - Goniómetro o Transportador de Ángulos | Prof. Eduardo J.  Stefanelli](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSschVK0jHQT5Px2x1_Nfkl7B5UvvI86Uuxwx0Lq9ouBA5lYoWviIEuLw&s=10)
+
+
+## Normalització
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzgyMzg4MiwtMTQ0NDQ3MDM3LDM5MD
+eyJoaXN0b3J5IjpbLTI0NDQwNjcxMywtMTQ0NDQ3MDM3LDM5MD
 k4MTYxNV19
 -->
