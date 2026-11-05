@@ -79,7 +79,14 @@ a = ---------------------
 	- desviació superior (**ds**): CM - C
 	- desviació inferior (**di**): Cm-C
 	- Tolerància (**T**): CM-Cm = ds - di
+- eix i forat:
+	- eix: ds' i  di'
+	- forat: ds i di
+- ajustatge: relació eix-forat
+	- amb joc: CM(eix) < Cm(forat)
+		- JM = CMf - Cme = ds - di'
+		- Jm = Cmf - CMe = di - ds'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUzMDk2MjksLTE0NDQ0NzAzNywzOT
+eyJoaXN0b3J5IjpbLTE3MDUzNDQwMDEsLTE0NDQ0NzAzNywzOT
 A5ODE2MTVdfQ==
 -->
