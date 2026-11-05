@@ -89,8 +89,9 @@ a = ---------------------
 	- amb serratge:
 		- SM = CMe - Cmf = ds' - di = -Jm
 		- Sm = Cme - CMf = di' - ds = -JM
-	- indetermina
+	- indeterminat
+- tolerància ajustatge: Te + Tf = (ds'-di')+(ds-di)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjA0MDI5MCwtMTQ0NDQ3MDM3LDM5MD
-k4MTYxNV19
+eyJoaXN0b3J5IjpbLTE0NjIwOTQ4OTIsLTE0NDQ0NzAzNywzOT
+A5ODE2MTVdfQ==
 -->
