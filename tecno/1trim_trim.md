@@ -1,4 +1,11 @@
 # Trimestral 1r trim
+## Temps de màquines
+- Tipus:
+	-	En sèrie
+	-	En paral·lel
+-	temps de cicle = màxim temps en una màquina
+-	afegir màquina en paral·lel = dividir temps en màquina
+
 ## Metrologia
 - Mesurar: comparar una magnitud coneguda presa com a unitat
 	- magnitud: tipus (naturalesa) de la mesura
@@ -19,6 +26,6 @@
 		- verificació: dins d'un rang de valors establert (passa - no passa)
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODEzOTY4NywtMTQ0NDQ3MDM3LDM5MD
-k4MTYxNV19
+eyJoaXN0b3J5IjpbLTE0MTUwNTcwMzgsLTE0NDQ0NzAzNywzOT
+A5ODE2MTVdfQ==
 -->
