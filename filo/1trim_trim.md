@@ -155,7 +155,7 @@
   - _Vaixell de Tesseu_: identitat numèrica i quantitativa
   - causes i principis naturals
   - monistes (arkhé únic):
-    - [Tales de Milet](#tales-de-milet): aigua
+    - Tales de Milet: aigua
     - Anaximandre: apèiron (medi indefinit)
     - Anaxímenes: aire
   - pluralistes (més d'un arkhé):
