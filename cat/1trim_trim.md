@@ -1,1 +1,1 @@
-# Català trimestral (I)
+# Català trimestral
