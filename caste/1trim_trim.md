@@ -1,0 +1,198 @@
+# Castellano trimestral I
+
+## Literatura
+- Texto:
+	- Resúmen: multiples oraciones
+	- Idea principal: 1 oración
+	- Tema: SN, funciona como título
+- Modelos de comunicación
+	- emisor
+	- receptor
+	- mensaje (canal, código)
+	- contexto
+	- ruido
+- Intención comunicativa (propósito):
+	- poética/estética: bonito
+	- metalinguística: habla del lenguaje en si
+	- apelativa/conativa: ordenes
+	- emotiva/expresiva: opiniones
+	- fática: pregunta
+	- referencial/informativa: objetivo,hechos
+### Pragmática
+- Sentido de un texto dependiendo del contexto/situación comunicativa
+- Elementos:
+	- culturales: conocimientos referentes, prejuicios de comunidad
+	- presuposiciones: se infiere a partir de los enunciados
+	- implicaciones: situación comunicativa
+### Deixis
+- Elementos linguísticos que señalan una persona, lugar o tiemo en relación con la situación común
+- Solo se entiende según el contexto
+- Tipos:
+	- **Persona**: pronombre personal, posesivos, demostrativos, verbos conjugados (desinencias)
+	- **Espacial**: demostrativos, adverbos espaciales
+	- **Temporal**: adverbos, sintagmas temporales, formas verbales
+### Narrativa
+- Género literario escrito en prosa. El autor, a través de la voz narrativa nos explica una história/argumento sobre unos personajes en un espacio y tiempo.
+- Estructure:
+	- circular (empieza por el desenlace)
+	- lineal (planteamiento, nudo, desenlace)
+- Narrador:
+	- 3a persona (no hay marcas textuales)
+		- omnisciente
+			- neutral: pocas opiniones
+			- editorial: muchas opiniones del autor
+		- observador, no omnisciente
+	- 1a persona
+		- protagonista
+		- testigo
+		- alternante
+- Punto de vista: forma de aproximar la información que recibe el lector
+	- focalización cero: omnisciencia
+	- focalización interna: propia experiencia, protagonista o testigo
+	- focalización externa: ve a los personajes desde fuera, no puede entrar
+	- alternante
+		- conoce los pensamientos de un solo personaje
+		- omisciencia selectiva o multiselectiva
+- Tiempo (tiempo historia != tiempo argumento)
+	- lineal: orden cronológico
+	- anacrónico (modificado)
+		- in media res: en el medio de la nada
+		- analepsis / flashback
+		- prolepsis / flashforward
+	- íntimo: tiempo subjetivo de los personajes
+	- simultáneo: lineas paralelas
+- Coherencia interna: creación del _mundo narrativo_, sigue sus reglas internas (mágia, dioses...).
+- Verosimilitud: tiene que ver con el mundo real.
+- Modelización: historia transformada en argumento.
+	- Historia: todos los elementos en una narración sin alteración.
+	- Argumento/discurso: historia modificada a través de varios mecanismos (elipsis).
+		- conflicto (primario + secundario)
+		- acción (principal + secundaria)
+		- personajes (protagonistas + pers. secundarios)
+- Autor y lector implícito:
+	- Autor implícito: marcas (opiniones, chistes, interpretaciones) que delatan al autor. No confundir con narrador.
+	- Lector implícito: capacidad de rellenar los huecos que ha dehado el autor.
+- Personajes (significan y actuan):
+	- Protagonismo: protagonista vs. antagonista
+	- Evolución: redondos vs. planos (arquetipos)
+	- Identidad:
+		- anagórisis: descubrimiento de la verdadera identidad
+- Intimidad:
+	- Estilo directo: narrador cede la voz al personaje. Reproducció literal (diálogo)
+	- Estilo indirecto: verbo del pensamiento o del habla, tercera persona subordinada
+	- Estilo indirecto libre: elimina el verbo de habla, cambio en el lenguaje i léxico
+	- Monólogo: se reproducen los pensamientos tal y como pasan por la mente del narrador
+		- flujo de conciencia: desorden caótico
+		- soliloquio: destinatario "tu" no explícito
+- Espacio y ambiente
+	- Espacio de la historia, el mundo narrativo delimitado por palabras y elementos
+	- Ambiente: circunstancias personales, familiares, políticas, sociales o de cualquier tipo que envuelven la situación i la acción.
+- Ritmo narrativo
+	- Tiempo externo/histórico: tiempo en el que se ambienta la história
+	- Tiempo interno: tiempo del mundo literario
+		- Tipos:
+			- de la historia: duración de los hechos
+			- del argumento: lo que se tarda en leer
+		- relación entre estos = ritmo narrativo (lento, rápido, elipsis, pausa, resumen, escena, descripción...)
+- Lenguaje:
+	- Formas verbales:
+		- narración: preterito perfecto simple, imperativo, presente
+		- descripción: imperfecto
+		- diálogos: presente (indicativo e imperfecto)
+	- Léxico:
+		- verbos de movimiento, acción y lengua
+		- adjetivación
+		- recursos estilísticos
+- Intertextualidad: relación de un texto con otros textos
+
+## Morfología
+- morfema: unidad mínimo de significado
+- tipos de morfemas:
+	- raíz/lexema: segmento que aporta el significado
+	- afijo: siempre unido a una raíz
+		- derivativos: forma nuevas palabras
+		- flexivos: establece relaciones sintácticas
+- derivativos:
+	- prefijos
+	- sufijos
+	- interfijos: raiz-sufijo
+	- infijos: dentro de la raíz
+- flexivos:
+	- nominal:
+		- marca de palabras (desaparece en la derivación)
+		- género
+		- número
+	- verbal:
+		- VT (vocal temática): indica la conjugación
+		- PN: persona y número
+		- TAM: tiempo, aspecto y modo
+- alomorfo: diferentes variaciones que puede presentar el morfema
+- orden de los morfemas: `clase -> clasificar -> clasificable -> inclasificable`
+
+### Morfologia derivativa
+- palabra:
+	- simple: raíz + flexivo
+	- compleja: 2+raíz o raíz+derivativo
+- formación de palabras:
+	- derivación:
+	- composición:
+		- propios (se escribe junto)
+		- sintagmáticos: separación gráfica (espacio o guión)
+	- parasíntesis:
+		- compositiva: composición + derivación
+		- por derivación: doble derivación, prefijo+sufijo
+	- otros procedimientos: acrónimos, compuesto acrónimo, creación onomatopéyica, marcas registradas, numerónimo, siglas
+- sufijos:
+	- no apreciativos: nominalizador, adjetivizador, adverbializador, verbalizador
+	- apreciativos: diminutivos, despectivos, aumentativos, valor afectivo...
+		- puede tener diferentes valores
+		- las palabras cambian de significado (lexicalizan)
+
+### Morfología flexiva
+- Cero: no tiene realización explícita
+- flexión:
+	- no crea palabras
+	- relaciones gramaticales
+- palabra
+	- invariable:
+	- variable: permite flexión (sustantivo, adjetivo, determinante, pronombre, verbo)
+- género gramatical: sustantivo, adjetivo, participio (verbo), determinante, pronombre (algunos neutros)
+	- sustantivo inherente
+	- adjetivo y determinante: concordáncia
+- particularidades: género sustantivo
+	- heteronimia: nombres diferentes
+	- mediante afijos
+	- misma forma masc y fem
+	- epicenos: género gramatical fijo
+	- ambiguos: admiten masc y fem
+	- alternancia con cambio de significado
+- número:
+	- contable/incontable
+	- recategorización: incontable a contable
+	- tantum: solo admiten uno (pluralia/singularia)
+	- objetos dobles: el plural se puede referir a un único objeto (pantalones)
+	- recategorización: cambio de significado con el número
+	- nombres propios sin flexión
+- flexión verbal: persona/número/tiempo/modo/aspecto
+- verbos regulares/irregulares
+- gradación
+	- positivo
+	- comparativo
+	- superlativo
+		- relativo
+		- absoluto
+
+### Semántica
+- Sinonimia / antonimia
+- Hiperonimia (incluye) / hiponimia (incluida) / cohiponimia (comparten hipónimo)
+- Homonimia (misma pronunciación o escritura):
+	- Homofonia (misma pronunciación, no escritura)
+	- Homografia (misma pronunciacíon y escritura)
+- Polisemia (multiples acepciones) / monosemia (únia acepción)
+- Paronimia (pronunciación semejante)
+- Heteronímia (diferente raíz para el género)
+- Meronimia (una parte) / holonimia (todo)
+- Campo semántico (ámbito de significado)
+- Tabú lingüístico (rechazo al uso de algunas palabras)
+- Eufemismo (sustituye palabras desagradables)
+- Metáfora (sentido basado en una semejanza)
