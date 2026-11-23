@@ -18,12 +18,14 @@
 	- emotiva/expresiva: opiniones
 	- fática: pregunta
 	- referencial/informativa: objetivo,hechos
+
 ### Pragmática
 - Sentido de un texto dependiendo del contexto/situación comunicativa
 - Elementos:
 	- culturales: conocimientos referentes, prejuicios de comunidad
 	- presuposiciones: se infiere a partir de los enunciados
 	- implicaciones: situación comunicativa
+
 ### Deixis
 - Elementos linguísticos que señalan una persona, lugar o tiemo en relación con la situación común
 - Solo se entiende según el contexto
@@ -31,6 +33,7 @@
 	- **Persona**: pronombre personal, posesivos, demostrativos, verbos conjugados (desinencias)
 	- **Espacial**: demostrativos, adverbos espaciales
 	- **Temporal**: adverbos, sintagmas temporales, formas verbales
+
 ### Narrativa
 - Género literario escrito en prosa. El autor, a través de la voz narrativa nos explica una história/argumento sobre unos personajes en un espacio y tiempo.
 - Estructure:
