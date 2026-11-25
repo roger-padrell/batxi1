@@ -1,4 +1,4 @@
-# Trimestral 1r trim
+# 15% 1r trim
 ## Temps de màquines
 - Tipus:
 	-	En sèrie
@@ -102,6 +102,6 @@ a = ---------------------
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODUzMTExMCwtMTQ0NDQ3MDM3LDM5MD
-k4MTYxNV19
+eyJoaXN0b3J5IjpbLTE4MTA3NzQ1NzIsMTUwODUzMTExMCwtMT
+Q0NDQ3MDM3LDM5MDk4MTYxNV19
 -->
