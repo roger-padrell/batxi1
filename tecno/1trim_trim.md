@@ -183,8 +183,16 @@ a = ---------------------
 	- 1-0=1
 	- 10-1=1
 	- 1-1=0
-	- 0-1=1 (amb 1
+	- 0-1=1 (amb 10 negatiu)
+### Àlgebra de bool
+- OR
+- AND
+- NOT
+- NAND
+- NOR
+- XOR
+- NAND
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjczNDU2Niw0MTM2MjQ4NjgsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwNTk1MTY3NzUsNDEzNjI0ODY4LDczMD
+k5ODExNl19
 -->
