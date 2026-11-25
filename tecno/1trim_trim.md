@@ -173,9 +173,6 @@ a = ---------------------
 	- di = suma(di pos) - suma(ds neg)
 
 
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNzUzMDcwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQ1OTIyMjY4LDczMDk5ODExNl19
 -->
