@@ -172,7 +172,7 @@ a = ---------------------
 	- ds = suma(ds pos) - suma(di neg)
 	- di = suma(di pos) - suma(ds neg)
 
-
+## Electrònica digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTIyMjY4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDEzNjI0ODY4LDczMDk5ODExNl19
 -->
