@@ -178,8 +178,13 @@ a = ---------------------
 	- 0+0=0
 	- 0+1=1
 	- 1+1=10
-- resta=
+- resta
+	- 0-0=0
+	- 1-0=1
+	- 10-1=1
+	- 1-1=0
+	- 0-1=1 (amb 1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjYyNTcyMiw0MTM2MjQ4NjgsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzNjk5NTk0NjIsNDEzNjI0ODY4LDczMD
+k5ODExNl19
 -->
