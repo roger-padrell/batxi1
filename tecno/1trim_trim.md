@@ -173,6 +173,13 @@ a = ---------------------
 	- di = suma(di pos) - suma(ds neg)
 
 ## Electrònica digital
+### Aritmètica binària
+- suma
+	- 0+0=0
+	- 0+1=1
+	- 1+1=10
+- resta=
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNjI0ODY4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTkwNjYyNTcyMiw0MTM2MjQ4NjgsNzMwOT
+k4MTE2XX0=
 -->
